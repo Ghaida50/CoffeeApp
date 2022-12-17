@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Coffee App</string>
+    <string name="Latte">Latte</string>
+    <string name="Latte_d">As the most popular coffee drink out there, the latte is comprised of a shot of espresso and steamed milk with just a touch of foam. It can be ordered plain or with a flavor shot of anything from vanilla to pumpkin spice. </string>
+    <string name="Cappuccino">Cappuccino</string>
+    <string name="Cappuccino_d">Cappuccino is a latte made with more foam than steamed milk, often with a sprinkle of cocoa powder or cinnamon on top. Sometimes you can find variations that use cream instead of milk or ones that throw in flavor shot, as well.</string>
+    <string name="Americano">Americano</string>
+    <string name="Americano_d">With a similar flavor to black coffee, the americano consists of an espresso shot diluted in hot water. Pro tip: if you’re making your own, pour the espresso first, then add the hot water.</string>
+    <string name="Espresso">Espresso</string>
+    <string name="Espresso_d">An espresso shot can be served solo or used as the foundation of most coffee drinks, like lattes and macchiatos.</string>
+    <string name="Macchiato">Macchiato</string>
+    <string name="Macchiato_d">The macchiato is another espresso-based drink that has a small amount of foam on top. It’s the happy medium between a cappuccino and a doppio.</string>
+    <string name="Mocha">Mocha</string>
+    <string name="Mocha_d">For all you chocolate lovers out there, you’ll fall in love with a mocha (or maybe you already have). The mocha is a chocolate espresso drink with steamed milk and foam.</string>
+    <string name="FlatWhite">Flat White</string>
+    <string name="FlatWhite_d">This Aussie-born drink is basically a cappuccino without the foam or chocolate sprinkle. It’s an espresso drink with steamed milk.</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
